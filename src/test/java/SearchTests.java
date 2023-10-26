@@ -13,8 +13,6 @@ public class SearchTests {
         Configuration.pageLoadStrategy = "eager";
     }
 
-
-324582734852389532895732895
     @Test
     void successfulSearchTest() {
         open("https://www.google.com/");
